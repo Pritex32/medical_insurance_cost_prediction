@@ -1,4 +1,5 @@
 # medical_insurance_cost_prediction
+![Understanding insurance cost]('hospital_file and 4 more pages - Profile 1 - Microsoft​ Edge 3_14_2025 4_42_56 PM (2).png')
 
 ## link to the model  app here (https://huggingface.co/spaces/pritex/hospital_cost_predictions_app)
 
