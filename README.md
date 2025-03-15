@@ -6,6 +6,9 @@
 # Overview
 The analysis aimed to understand the key factors that influence hospital billing and medical insurance costs. Various statistical techniques and machine learning models were used to identify the relationships between factors like age, gender, BMI, number of children, smoking habits, and region with medical charges. Additionally, a predictive model was built using a Random Forest Regressor to estimate healthcare costs.
 
+# Data Source
+Data is sourced from kaggle
+
 
 # Exploratory Data Analysis (EDA) Summary
 The exploratory data analysis (EDA) involved various statistical techniques and visualizations to understand the factors influencing hospital costs.
